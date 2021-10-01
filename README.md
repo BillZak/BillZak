@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BillZak
-- 👀 I’m interested in creating
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in software 
+- 🌱 I’m currently software programming
 - 💞️ I’m looking to collaborate on projects concerning coding
-- 📫 How to reach me on twitter@BillZak3
+- 📫 How to reach me on twitter and linked In
 
 <!---
 BillZak/BillZak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
